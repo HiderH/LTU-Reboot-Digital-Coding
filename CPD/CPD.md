@@ -15,3 +15,14 @@ How did I use this in practice?
 What did I find hard?
 
 I didn't quiet understand how the internet worked ....
+
+
+14/09/2021
+
+Setting up
+
+I learnt to fork a repository on github and cloned it to my PC
+
+I followed the instructors steps in real and attempted to perform the task myself using my own pc
+
+I found everyone experienced different results and not everything was straight forward
